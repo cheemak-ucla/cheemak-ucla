@@ -2,7 +2,7 @@
 
 **Medical imaging and scientific machine learning**
 
-I am a postdoctoral fellow in Medical Physics at Memorial Sloan Kettering Cancer Center and earned my PhD in Bioengineering from UCLA in 2025. My work connects imaging physics, deep learning, and quantitative evaluation to accelerate MRI and recover useful information from undersampled measurements.
+I am a Research fellow in Medical Physics at Memorial Sloan Kettering Cancer Center and earned my PhD in Bioengineering from UCLA in 2025. My work connects imaging physics, deep learning, and quantitative evaluation to accelerate MRI and recover useful information from undersampled measurements.
 
 I am interested in research scientist and research engineer roles involving medical imaging, computational imaging, and machine learning. I am a U.S. citizen and open to relocation within the United States.
 

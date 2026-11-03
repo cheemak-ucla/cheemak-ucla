@@ -22,6 +22,15 @@ I am interested in research scientist and research engineer roles involving medi
 - **Imaging:** image reconstruction, inverse problems, quantitative MRI, parameter estimation and signal processing.
 - **Research practice:** experimental design, baseline comparison, regional analysis, reproducible evaluation and scientific communication.
 
+## Talks and conference abstracts
+
+- **SCMR 2025 · Washington, DC · Oral presentation:** Free-breathing Ungated Cardiac Creatine Steady-State CEST Imaging at 3T. First author and presenter. [Conference abstract](https://doi.org/10.1016/j.jocmr.2024.101336)
+- **SCMR–ISMRM Workshop 2023 · San Diego · Oral presentation:** Creatine assessment in acute myocardial infarction using CEST. First author and presenter. [Presentation record](https://escholarship.org/uc/item/93b6j7jz)
+- **ISMRM 2022–2024:** Four digital posters on deep learning, quantitative CEST mapping, and spine imaging.
+- **ISMRM 2027:** Four submitted abstracts on MovieNET, pathology augmentation, regional reference measurements, and implicit neural fitting. Decisions pending.
+
+[Full conference record and abstract links](conferences.md)
+
 ## Publications
 
 - Cheema K, Murray V, Otazo R, Cohen O. *Deep Learning Reconstruction for Accelerated Radial CEST MR Fingerprinting.* arXiv, 2026. **Preprint.** [Article](https://arxiv.org/abs/2610.23805)

@@ -1,16 +1,31 @@
-## Hi there 👋
+# Karandeep Cheema
 
-<!--
-**cheemak-ucla/cheemak-ucla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Medical imaging and scientific machine learning**
 
-Here are some ideas to get you started:
+I am a postdoctoral fellow in Medical Physics at Memorial Sloan Kettering Cancer Center and earned my PhD in Bioengineering from UCLA in 2025. My work connects imaging physics, deep learning, and quantitative evaluation to accelerate MRI and recover useful information from undersampled measurements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in research scientist and research engineer roles involving medical imaging, computational imaging, and machine learning. I am a U.S. citizen and open to relocation within the United States.
+
+[LinkedIn](https://www.linkedin.com/in/karandeep-cheema)
+
+## Selected research
+
+| Project | Focus | Read more |
+| --- | --- | --- |
+| MovieNET for radial CEST MR fingerprinting | Temporal deep learning, accelerated reconstruction, subject-held-out evaluation | [Case study](projects/movienet.md) · [2026 preprint](https://arxiv.org/abs/2610.23805) |
+| Accelerated brain CEST MRI | Sampling optimization, U-Net estimation, prospective acquisition | [Case study](projects/accelerated-cest.md) · [Journal article](https://doi.org/10.1002/mrm.30269) |
+
+## Technical background
+
+- **Machine learning:** Python, PyTorch, TensorFlow, neural networks, model evaluation.
+- **Scientific computing:** MATLAB, NumPy, SciPy, pandas, Linux and GPU research workflows.
+- **Imaging:** image reconstruction, inverse problems, quantitative MRI, parameter estimation and signal processing.
+- **Research practice:** experimental design, baseline comparison, regional analysis, reproducible evaluation and scientific communication.
+
+## Publications
+
+- Cheema K, Murray V, Otazo R, Cohen O. *Deep Learning Reconstruction for Accelerated Radial CEST MR Fingerprinting.* arXiv, 2026. **Preprint.** [Article](https://arxiv.org/abs/2610.23805)
+- Cheema K, Han P, Lee HL, Xie Y, Christodoulou AG, Li D. *Accelerated CEST imaging through deep learning quantification from reduced frequency offsets.* Magnetic Resonance in Medicine. 2025;93(1):301–310. First published online in 2024. [Article](https://doi.org/10.1002/mrm.30269)
+- Cheema K, et al. *Accelerated 3D qCEST of the Spine in a Porcine Model Using MR Multitasking at 3T.* NMR in Biomedicine. 2025;38(9):e70122. [Article](https://doi.org/10.1002/nbm.70122)
+
+This repository currently contains research summaries and publication links. Research software and data are not included in this release.
